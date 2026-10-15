@@ -1,0 +1,11 @@
+[[media]]
+file = "rally.png"
+name = "Spin meets moving geometry"
+
+[[media]]
+file = "title.png"
+name = "A game of angles"
+
+[[media]]
+file = "rally.json.gz"
+name = "A rally through the amber bars"
